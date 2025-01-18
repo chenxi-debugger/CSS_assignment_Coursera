@@ -1,0 +1,56 @@
+
+body {
+  color: #333;
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  background-color: rgb(201, 188, 222);
+  margin: 0;
+  padding: 0;
+  }
+
+
+header {
+  background-color: rgba(189, 225, 199, 0.747);
+}
+ 
+
+nav {
+  background-color: rgba(220, 225, 160, 0.914);
+  display: flex;
+  justify-content: space-around;
+}
+
+main {
+  background-color: rgba(66, 185, 185, 0.747);
+  font-size: 40px;
+} 
+
+footer {
+  background-color: rgba(175, 162, 192, 0.951);
+  text-align: center;
+}
+
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+  display: inline;
+  width: 100px;
+}
+
+
+h1 {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 60px;
+  text-align: center;
+  color: rgba(12, 20, 64, 0.346);
+}
+
+ p {
+  line-height: 2;
+  color: rgb(57, 92, 187);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+ } 
